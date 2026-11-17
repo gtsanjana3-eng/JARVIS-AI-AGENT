@@ -1,0 +1,35 @@
+.env
+.env.*
+!.env.example
+*.class
+out/
+target/
+build/
+.idea/
+.vscode/
+
+# Private application data
+data/
+
+# Personal workspace
+workspace/
+
+# Private configuration
+config/jarvis.properties
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Java build files
+*.class
+out/
+target/
+build/
+
+# IDE files
+.idea/
+.vscode/
+
+.claude/
